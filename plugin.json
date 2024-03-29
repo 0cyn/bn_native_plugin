@@ -1,0 +1,38 @@
+{
+  "pluginmetadataversion": 2,
+  "name": "TEST",
+  "type": [
+    "core",
+    "ui",
+    "architecture",
+    "binaryview",
+    "helper"
+  ],
+  "api": [
+    "python3"
+  ],
+  "description": "",
+  "longdescription": "",
+  "license": {
+    "name": "",
+    "text": ""
+  },
+  "platforms": [
+    "Darwin",
+    "Linux",
+    "Windows"
+  ],
+  "installinstructions": {
+    "Darwin": "Requires python setuptools + XCode Developer Tools. This package builds itself.",
+    "Linux": "Requires python setuptools + a functional CMake+LLVM toolchain in your PATH. This package builds itself.",
+    "Windows": "Requires python setuptools + Visual Studio 2015 or later. This package builds itself."
+  },
+  "dependencies": {
+    "pip": [
+
+    ]
+  },
+  "version": "",
+  "author": "",
+  "minimumbinaryninjaversion": 4958
+}

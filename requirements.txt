@@ -1,0 +1,1 @@
+TEST_bnplugin_placeholder @ git+https://github.com/0cyn/bn_native_plugin.git#subdirectory=build_harness
